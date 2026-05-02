@@ -40,7 +40,7 @@ This repository represents the evolved, cross-platform version of the original K
 
 ## 📸 Screenshots
 *(Coming Soon)*
-> Tip: Add your app screenshots here to make your profile stand out!
+
 
 ---
 
