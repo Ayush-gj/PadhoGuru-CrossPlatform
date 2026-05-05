@@ -54,3 +54,6 @@ This repository represents the evolved, cross-platform version of the original K
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YourUsername/PadhoGuru-CrossPlatform.git](https://github.com/YourUsername/PadhoGuru-CrossPlatform.git)
+
+
+Looking forward to contribute more in it and take it to upper level..........
